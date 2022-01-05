@@ -1,10 +1,10 @@
 body{
-    font-size: 40px;
+    font-size: 50px;
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
 .header-1{
-    font-size: 80px;
+    font-size: 60px;
 }
 .teal-color{
     color:teal
@@ -84,5 +84,5 @@ p{
 }
 footer p{
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 }
