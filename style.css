@@ -11,7 +11,7 @@ body {
 }
 
 .welcome {
-    background-image: url(bg-1.png);
+    background-image: url(images/bg-1.png);
     background-position: top left;
     background-repeat: no-repeat;
     box-sizing: border-box;
@@ -77,6 +77,13 @@ p {
 }
 
 /* Dream Section */
+.dream-right {
+    background-image: url(images/bg-2.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+
 .dream-left {
     padding-top: 5%;
 }
@@ -89,7 +96,7 @@ p {
 }
 
 .experience-row {
-    background-image: url(bg-3.png);
+    background-image: url(images/bg-3.png);
     background-repeat: no-repeat;
     background-position: left 20%;
     background-size: 200px 400px;
